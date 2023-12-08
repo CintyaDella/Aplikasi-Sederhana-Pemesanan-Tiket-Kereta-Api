@@ -1,0 +1,11 @@
+"Nomor Kereta","Nama Kereta","Kelas","Kota Asal","Kota Tujuan","Jam Berangkat","Jam Tiba","Harga"
+"101","Lodaya","Ekonomi","Yogyakarta","Bandung","19:51","03:39","275000"
+"102","Turangga","Eksekutif","Yogyakarta","Bandung","22:53","05:19","450000"
+"103","Gajayana","Bisnis","Yogyakarta","Bandung","23:28","6:56","315000"
+"201","Kertanegara","Ekonomi","Kediri","Malang","00:35","03:06","185000"
+"202","Brawijaya","Eksekutif","Kediri","Malang","02:36","05:00","445000"
+"203","Malabar","Bisnis","Kediri","Malang","04:06","06:38","280000"
+"301","Matarmaja","Ekonomi","Semarang","Jakarta","18:11","01:01","220000"
+"302","Agro Muria","Eksekutif","Semarang","Jakarta","16:15","21:21","515000"
+"303","Jayabaya","Bisnis","Semarang","Jakarta","18:53","01:25","420000"
+
